@@ -11,15 +11,8 @@
   <link data-n-head="ssr" rel="stylesheet" href="<?php echo base_url()?>assets/css/animate.css">
   <link data-n-head="ssr" rel="stylesheet" href="<?php echo base_url()?>assets/css/owl_002.css">
   <link data-n-head="ssr" rel="stylesheet" href="<?php echo base_url()?>assets/css/owl.css">
-  <link data-n-head="ssr" data-hid="shortcut-icon" rel="shortcut icon"
-    href="https://our-wedding.link/_nuxt/icons/icon_64x64.d64535.png">
-  <link data-n-head="ssr" data-hid="apple-touch-icon" rel="apple-touch-icon"
-    href="https://our-wedding.link/_nuxt/icons/icon_512x512.d64535.png" sizes="512x512">
- 
   <link data-n-head="ssr" rel="stylesheet" href="<?php echo base_url()?>assets/css/ieDQPrhhsDQzIziZvV4P.css">
   <link data-n-head="ssr" rel="stylesheet" href="<?php echo base_url()?>assets/css/custom-ieDQPrhhsDQzIziZvV4P.css">
-  <script type="text/javascript" async="" src="<?php echo base_url()?>assets/js/recaptcha__en.js" crossorigin="anonymous"
-    integrity="sha384-w2lIrXdcsRgXIRsq1Y2C2rGrB0G3iE5CLYGxlFzUAbix3gGjUFYcQavOqddMOp1u"></script>
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/jquery-3.js" defer="defer"></script>
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/masonry.js" defer="defer"></script>
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/imagesloaded.js" defer="defer"></script>
@@ -18047,7 +18040,6 @@
     }
   </style>
   <script charset="utf-8" src="<?php echo base_url()?>assets/js/cb36ca2.js"></script>
-  <script async="" src="<?php echo base_url()?>assets/js/hotjar-2092117.js"></script>
   <style type="text/css">
     .CodeMirror {
       font-family: monospace;
@@ -19586,12 +19578,9 @@
       max-width: 100%
     }
   </style>
-  <link href="https://www.google-analytics.com/" rel="preconnect">
-  <script async="" defer="defer" src="<?php echo base_url()?>assets/js/api.js"></script>
   <style>
     .grecaptcha-badge {
       visibility: hidden;
     }
   </style>
-  <script async="" src="<?php echo base_url()?>assets/js/modules.js" charset="utf-8"></script>
 </head>

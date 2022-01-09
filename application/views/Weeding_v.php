@@ -1,7 +1,6 @@
 
 <body>
   <div id="__nuxt">
-    <!---->
     <div id="__layout">
       <div>
         <div id="main-wrap" class="cover no-scroll" >
@@ -15,37 +14,15 @@
                   <div class="overlay-image-separator" data-v-c647b94a="">
                    
                     <div class="text-overlay" data-v-c647b94a="">
-                      <h1 data-v-c647b94a=""> Shaqia &amp; <br data-v-c647b94a=""> Affan</h1>
+                      <h1 data-v-c647b94a="">Shaqia &amp; Affan</h1>
                     </div>
                   </div>
                   <section id="separator" style=" padding-top:0;" data-v-c647b94a="">
-                    <!---->
                   </section>
-                  <div id="pay" class="float" data-v-126e3c29="" data-v-c647b94a=""><a id="pay-button" href="#"
-                      target="_self" class="pay-btn add-shadow" data-v-126e3c29=""><img
-                        src="<?php echo base_url()?>assets/css/pay_money.svg" alt="" data-v-126e3c29=""></a>
-                    <!---->
-                    <!---->
-                    <!---->
-                  </div> <a href="#" target="_self" class="music-control add-shadow off" data-v-c647b94a=""><svg
-                      viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
-                      aria-label="music note list" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                      class="bi-music-note-list b-icon bi" data-v-c647b94a="">
-                      <g data-v-c647b94a="">
-                        <path d="M12 13c0 1.105-1.12 2-2.5 2S7 14.105 7 13s1.12-2 2.5-2 2.5.895 2.5 2z"></path>
-                        <path fill-rule="evenodd" d="M12 3v10h-1V3h1z"></path>
-                        <path d="M11 2.82a1 1 0 0 1 .804-.98l3-.6A1 1 0 0 1 16 2.22V4l-5 1V2.82z"></path>
-                        <path fill-rule="evenodd"
-                          d="M0 11.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 .5 7H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 .5 3H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5z">
-                        </path>
-                      </g>
                     </svg></a> 
                   <div id="bottom-bar" class="desktop-bar" data-v-7be619d4="" data-v-c647b94a="">
                     <div class="wrapper add-shadow" data-v-7be619d4="">
                       <ul data-v-7be619d4="">
-                        <!---->
-                        <!---->
-                        <!---->
                         <li data-v-7be619d4=""><a href="#coupleProfile" target="_self" data-v-7be619d4="" class=""><svg
                               viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
                               aria-label="suit heart fill" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
@@ -56,23 +33,6 @@
                                 </path>
                               </g>
                             </svg> <span data-v-7be619d4="">Couple</span></a></li>
-                        <!---->
-                        <!---->
-                        <!---->
-                        <li data-v-7be619d4=""><a href="#galleries" target="_self" data-v-7be619d4="" class=""><svg
-                              viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
-                              aria-label="images" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                              class="bi-images b-icon bi" data-v-7be619d4="">
-                              <g data-v-7be619d4="">
-                                <path d="M4.502 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"></path>
-                                <path
-                                  d="M14.002 13a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2V5A2 2 0 0 1 2 3a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v8a2 2 0 0 1-1.998 2zM14 2H4a1 1 0 0 0-1 1h9.002a2 2 0 0 1 2 2v7A1 1 0 0 0 15 11V3a1 1 0 0 0-1-1zM2.002 4a1 1 0 0 0-1 1v8l2.646-2.354a.5.5 0 0 1 .63-.062l2.66 1.773 3.71-3.71a.5.5 0 0 1 .577-.094l1.777 1.947V5a1 1 0 0 0-1-1h-10z">
-                                </path>
-                              </g>
-                            </svg> <span data-v-7be619d4="">Galleries</span></a></li>
-                        <!---->
-                        <!---->
-                        <!---->
                         <li data-v-7be619d4=""><a href="#countdown" target="_self" data-v-7be619d4="" class=""><svg
                               viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
                               aria-label="calendar" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
@@ -93,12 +53,6 @@
                                 </path>
                               </g>
                             </svg> <span data-v-7be619d4="">Location</span></a></li>
-                        <!---->
-                        <!---->
-                        <!---->
-                        <!---->
-                        <!---->
-                        <!---->
                         <li data-v-7be619d4=""><a href="#wishes" target="_self" data-v-7be619d4="" class=""><svg
                               viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
                               aria-label="pencil square" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
@@ -124,7 +78,7 @@
                       <div class="wrap-overlay middle " style="background-color:rgba(255, 255, 255,0.2);"
                         data-v-dd8b5e8a="">
                         <div class="welcome_decor"
-                          style="background-image: url(&quot;https://api.our-wedding.link/&quot;);" data-v-dd8b5e8a="">
+                          style="background-image: url(&quot;<?php echo base_url()?>assets/img/background2.jpg&quot;);" data-v-dd8b5e8a="">
                         </div>
                         <div data-v-dd8b5e8a="" class="new_premCover">
                           <div data-v-dd8b5e8a="" class="text-wrapper animate__animated animate__fadeIn"
@@ -174,23 +128,15 @@
                       </div>
                     </div>
                   </div>
-                 
                   <div class="content-layout cover" data-v-c647b94a="">
                     <div id="quote" data-v-c647b94a="">
                       <div class="container" data-v-c647b94a="">
                         <div class="row" data-v-c647b94a="">
-                          <div class="text-center col-12" data-v-c647b94a=""><img src="mdxL_shelvyagung_data/a.json"
-                              alt="" data-v-c647b94a="" width="50%"></div>
+                          <div class="text-center col-12" data-v-c647b94a=""></div>
                           <div class="col-12" data-v-c647b94a="">
-                            <p class="quotes padding-balance mt-3 mb-3" data-v-c647b94a="">“Dan di antara tanda-tanda
-                              kebesaran-Nya adalah Dia menciptakan untukmu jodoh dari jenismu sendiri agar kamu
-                              mendapatkan ketenangan jiwa dan Dia menjadikan cinta di antara kamu, sesungguhnya itulah
-                              tanda-tanda kebesaran-Nya bagi orang-orang yang berpikir.”
-
-                              (Surat Ar Ruum: 21)</p>
+                            <p class="quotes padding-balance mt-3 mb-3" data-v-c647b94a="">“Dan di antara tanda-tanda kebesaran-Nya adalah Dia menciptakan untukmu jodoh dari jenismu sendiri agar kamu Mendapatkan ketenangan jiwa dan Dia menjadikan cinta di antara kamu, sesungguhnya itulah tanda-tanda kebesaran-Nya bagi orang-orang yang berpikir.”(Surat Ar Ruum: 21)</p>
                           </div>
-                          <div class="text-center col-12" data-v-c647b94a=""><img src="mdxL_shelvyagung_data/a.json"
-                              alt="" style="transform:rotate(180deg);" data-v-c647b94a="" width="50%"></div>
+                          <div class="text-center col-12" data-v-c647b94a=""></div>
                         </div>
                       </div>
                     </div>
@@ -210,7 +156,7 @@
                                     <div class="couple-img couple_decor_25" data-v-0b410839=""><img
 										src="<?php echo base_url()?>assets/img/qia.jpg" alt=""
                                         onerror="this.src = 'https://our-wedding.link/placeholder.png';"
-                                        data-v-0b410839=""></div> <img src="mdxL_shelvyagung_data/couple_decor_25.webp"
+                                        data-v-0b410839=""></div> <img src="<?php echo base_url()?>assets/img/decor_27.webp"
                                       onerror="this.src = 'https://our-wedding.link/placeholder2.png';" alt=""
                                       class="couple-img-decor" data-v-0b410839="">
                                   </div>
@@ -233,7 +179,7 @@
                                   <p data-v-c647b94a=""><b data-v-c647b94a="">Putri Pertama dari</b></p>
                                   <p data-v-c647b94a="">Emil Dharmawan &amp;
                                   </p>
-                                  <p data-v-c647b94a="">Ova Nur'arovah</p>
+                                  <p data-v-c647b94a="">Ova Nur'arova</p>
                                   <!---->
                                 </div>
                               </div>
@@ -253,7 +199,7 @@
                                     <div class="couple-img couple_decor_25" data-v-0b410839=""><img
 											src="<?php echo base_url()?>assets/img/capture.jpg" alt=""
                                         onerror="this.src = 'https://our-wedding.link/placeholder.png';"
-                                        data-v-0b410839=""></div> <img src="mdxL_shelvyagung_data/couple_decor_25.webp"
+                                        data-v-0b410839=""></div> <img src="<?php echo base_url()?>assets/img/decor_27.webp"
                                       onerror="this.src = 'https://our-wedding.link/placeholder2.png';" alt=""
                                       class="couple-img-decor" data-v-0b410839="">
                                   </div>
@@ -274,7 +220,7 @@
                                       </b></a></p>
                                   <h4 data-v-c647b94a=""><b data-v-c647b94a="">Affan Ghoffar Dzaky Hidayat</b></h4>
                                   <p data-v-c647b94a=""><b data-v-c647b94a="">Putra Kedua dari</b></p>
-                                  <p data-v-c647b94a="">Drs. Hidayatturrachman. M.pd&amp;</p>
+                                  <p data-v-c647b94a="">Drs. Hidayaturrachman. M.pd &amp;</p>
                                   <p data-v-c647b94a="">Dra. Nur Ikhwatin. M.pd (Alm)</p>
                                   <!---->
                                 </div>
@@ -1529,7 +1475,4 @@
       "2021-08-09T13:25:56.101Z", "2021-08-12T10:10:25.608Z", "2021-08-13T14:51:04.760Z"));
   </script>
 </body>
-<script src="<?php echo base_url()?>assets/js/908054513355369.js" async=""></script>
-<script async="" defer="defer" src="<?php echo base_url()?>assets/js/fbevents.js"></script>
-
 </html>
