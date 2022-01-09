@@ -1,0 +1,52 @@
+
+    #bottom-bar .wrapper {
+      background-color: rgba(253,251,247,1) !important;
+    }
+    #quote, #live, #coupleProfile, #galleries, #weddingDetail, #story, #wishes, #footer, .premium #hours, .premium #minutes, .premium #seconds, .premium #days, .premium #rsvp, .btn-premium{
+      background-color: #fdfbf7;
+    }
+    .content-layout p {
+      color: #282828;
+    }
+    .content-layout h4, .content-layout h3, .content-layout h1, .btn-premium {
+      color: #d5af81;
+    }
+    .content-layout .alert {
+      border-color: #d5af81;
+      background-color: rgba(213,175,129,0.1);
+      color: #d5af81;
+    }
+    .content-layout .btn.btn-outline-primary {
+      border-color: #d5af81;
+      color: #d5af81;
+    }
+    .content-layout .btn.btn-primary:not(.btn-calendar) {
+      background-color: rgba(213,175,129,1);
+      border-color: rgba(213,175,129,1);
+      color: rgba(253,251,247,1);
+    }
+    .content-layout .custom-file-label, .content-layout .form-control,.content-layout .form-control::placeholder {
+      color: rgba(40,40,40,0.5);
+    }
+    #wishes .text-container {
+      color: rgba(213,175,129,1);
+      background-color: rgba(253,251,247,1) !important;
+    }
+    .content-layout .music-control {
+      background-color: #d5af81;
+      color: #fdfbf7;
+    }
+    #countdown ul li{
+      color: rgba(40,40,40,1)
+    }
+    #countdown ul li span{
+      color: rgba(213,175,129,1)
+    }
+    #bottom-bar .wrapper ul li a {
+      color: rgba(213,175,129,1) !important;
+    }
+    #bottom-bar .wrapper ul li a.active {
+      color: rgba(253,251,247,1) !important;
+      background-color: rgba(213,175,129,1) !important;
+    }
+    
