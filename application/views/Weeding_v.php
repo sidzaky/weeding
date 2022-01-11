@@ -153,11 +153,9 @@
                                 <div class="box-female" data-v-c647b94a="">
                                   <div class="couple-wrapper" style="width: 100%;" data-v-0b410839=""
                                     data-v-c647b94a="">
-                                    <div class="couple-img couple_decor_25" data-v-0b410839=""><img
-										src="<?php echo base_url()?>assets/img/qia.jpg" alt=""
-                                        onerror="this.src = 'https://our-wedding.link/placeholder.png';"
-                                        data-v-0b410839=""></div> <img src="<?php echo base_url()?>assets/img/decor_27.webp"
-                                      onerror="this.src = 'https://our-wedding.link/placeholder2.png';" alt=""
+                                    <div class="couple-img couple_decor_25" data-v-0b410839=""><img src="<?php echo base_url()?>assets/img/qia.jpg" alt=""
+                                        onerror="this.src = '" data-v-0b410839=""></div> <img src="<?php echo base_url()?>assets/img/decor_27.webp"
+                                      onerror="this.src = '" alt=""
                                       class="couple-img-decor" data-v-0b410839="">
                                   </div>
                                 </div>
@@ -197,10 +195,8 @@
                                   <div class="couple-wrapper" style="width: 100%;" data-v-0b410839=""
                                     data-v-c647b94a="">
                                     <div class="couple-img couple_decor_25" data-v-0b410839=""><img
-											src="<?php echo base_url()?>assets/img/capture.jpg" alt=""
-                                        onerror="this.src = 'https://our-wedding.link/placeholder.png';"
-                                        data-v-0b410839=""></div> <img src="<?php echo base_url()?>assets/img/decor_27.webp"
-                                      onerror="this.src = 'https://our-wedding.link/placeholder2.png';" alt=""
+                                    src="<?php echo base_url()?>assets/img/capture.jpg" alt="" data-v-0b410839=""></div> 
+                                      <img src="<?php echo base_url()?>assets/img/decor_27.webp" alt=""
                                       class="couple-img-decor" data-v-0b410839="">
                                   </div>
                                 </div>
@@ -231,7 +227,7 @@
                       </section>
                     </div>
 					
-					<div class="cover rundown" data-v-c647b94a="">
+					              <div class="cover rundown" data-v-c647b94a="">
                             <div class="container" style="position:relative;z-index:2;" data-v-c647b94a="">
                               <div class="top-acara" data-v-c647b94a=""></div>
                               <div class="row justify-content-md-center" data-v-c647b94a="">

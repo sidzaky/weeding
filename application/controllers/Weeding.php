@@ -21,12 +21,13 @@ class Weeding extends CI_Controller {
 	public function index()
 	{
 		$this->load->library('user_agent');
-		$this->load->view('header_desktop');	
 		$mobile=$this->agent->is_mobile();
 		if($mobile) {
+			$this->load->view('header_mobile');	
 			$this->load->view('Weedingmobile_v');
 		}
 		else {
+			$this->load->view('header_desktop');	
 			$this->load->view('Weeding_v');
 		}
 		
