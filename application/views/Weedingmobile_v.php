@@ -9,7 +9,7 @@
             <div data-v-3ae65d9e="" data-v-0fad4f82="" class="layout-cover cover animate__animated animate__fadeIn">
               <div data-v-dd8b5e8a="" data-v-3ae65d9e="" id="welcome" class="animate__animated  ">
                 <div data-v-dd8b5e8a="" class="wrapper"
-                  style="background-image: url(&quot;<?php echo base_url()?>assets/img/background2.jpg&quot;);">
+                  style="background-image: url(&quot;<?php echo base_url()?>assets/img/background4.jpg&quot;);">
                   <div data-v-dd8b5e8a="" class="wrap-overlay middle "
                     style="background-color: rgba(255, 255, 255, 0.2);display:hidden;">
                     <div data-v-dd8b5e8a="" class="new_premCover">

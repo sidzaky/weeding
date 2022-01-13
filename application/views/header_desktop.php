@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="  webp webp-alpha webp-animation webp-lossless"
-  style="--vh: 10px;" lang="en">
+  style="--vh: 9.7px;" lang="en">
 
 <head>
   
@@ -17222,7 +17222,6 @@
       position: absolute;
       left: 0;
       right: 0;
-      height: 100%;
       width: 100%;
       z-index: 1;
       background-position: 50%;

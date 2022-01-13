@@ -82,7 +82,7 @@
                         </div>
                         <div data-v-dd8b5e8a="" class="new_premCover">
                           <div data-v-dd8b5e8a="" class="text-wrapper animate__animated animate__fadeIn"
-                            style="color: rgb(255, 255, 255);">
+                            style="color: rgb(0, 0, 0);">
                             <p data-v-dd8b5e8a="" id="wedding-of" class="animate__animated animate__fadeInDown"
                               style="animation-delay: 0.8s;"></p>
                             <div data-v-dd8b5e8a="" id="couple-name"
