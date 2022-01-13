@@ -14,7 +14,7 @@
                     style="background-color: rgba(255, 255, 255, 0.2);display:hidden;">
                     <div data-v-dd8b5e8a="" class="new_premCover">
                       <div data-v-dd8b5e8a="" class="text-wrapper animate__animated animate__fadeIn"
-                        style="color: rgb(74, 60, 45);">
+                        style="color: rgb(255, 255, 255);">
                         <p data-v-dd8b5e8a="" id="wedding-of" class="animate__animated animate__fadeInDown"
                           style="animation-delay: 0.8s;">Undangan pernikahan</p>
                         <div data-v-dd8b5e8a="" id="couple-name" class="couple-name animate__animated animate__zoomIn"
@@ -27,14 +27,14 @@
                             style="animation-delay: 1.3s;">
                             <div data-v-dd8b5e8a="" class="row justify-content-between px-3 align-items-center">
                               <div data-v-dd8b5e8a="" class="border-date col-4"
-                                style="border-top: 2px solid rgb(74, 60, 45); border-bottom: 2px solid rgb(74, 60, 45);">
+                                style="border-top: 2px solid rgb(255, 255, 255); border-bottom: 2px solid rgb(255, 255, 255);">
                                 Sabtu</div>
                               <div data-v-dd8b5e8a="" class="p-0 col-3">
                                 <h1 data-v-dd8b5e8a="" class="mb-0" style="font-size: 2rem;">
                                   22</h1>
                               </div>
                               <div data-v-dd8b5e8a="" class="border-date col-4"
-                                style="border-top: 2px solid rgb(74, 60, 45); border-bottom: 2px solid rgb(74, 60, 45);">
+                                style="border-top: 2px solid rgb(255, 255, 255); border-bottom: 2px solid rgb(255, 255, 255);">
                                 Januari</div>
                             </div>
                             <div data-v-dd8b5e8a="" class="mt-2 years"> 2022</div>
@@ -44,7 +44,7 @@
                     </div>
                     <button data-v-dd8b5e8a="" id="bukaundangan" onclick='$("#welcome").addClass("hide");$("#main-wrap").removeClass("no-scroll");' type="button"
                       class="btn btn-outline-dark rounded-pill undefined animate__infinite animate__animated animate__flash animate__slower"
-                      style="color: rgb(74, 60, 45); border: 2px solid rgb(74, 60, 45); animation-delay: 0.6s;">buka
+                      style="color: rgb(255, 255, 255); border: 2px solid rgb(255, 255, 255); animation-delay: 0.6s;">buka
                       undangan</button>
                   </div>
                 </div>

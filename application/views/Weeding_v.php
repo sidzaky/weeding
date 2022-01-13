@@ -82,7 +82,7 @@
                         </div>
                         <div data-v-dd8b5e8a="" class="new_premCover">
                           <div data-v-dd8b5e8a="" class="text-wrapper animate__animated animate__fadeIn"
-                            style="color: rgb(74, 60, 45);">
+                            style="color: rgb(255, 255, 255);">
                             <p data-v-dd8b5e8a="" id="wedding-of" class="animate__animated animate__fadeInDown"
                               style="animation-delay: 0.8s;"></p>
                             <div data-v-dd8b5e8a="" id="couple-name"
@@ -99,14 +99,14 @@
                                 style="animation-delay: 1.3s;">
                                 <div data-v-dd8b5e8a="" class="row justify-content-between px-3 align-items-center">
                                   <div data-v-dd8b5e8a="" class="border-date col-4"
-                                    style="border-top: 2px solid rgb(74, 60, 45); border-bottom: 2px solid rgb(74, 60, 45);">
+                                    style="border-top: 2px solid rgb(255, 255, 255); border-bottom: 2px solid rgb(255, 255, 255);">
                                     Sabtu</div>
                                   <div data-v-dd8b5e8a="" class="p-0 col-3">
                                     <h1 data-v-dd8b5e8a="" class="mb-0" style="font-size: 2rem;">
                                       22</h1>
                                   </div>
                                   <div data-v-dd8b5e8a="" class="border-date col-4"
-                                    style="border-top: 2px solid rgb(74, 60, 45); border-bottom: 2px solid rgb(74, 60, 45);">
+                                    style="border-top: 2px solid rgb(255, 255, 255); border-bottom: 2px solid rgb(255, 255, 255);">
                                     Januari</div>
                                 </div>
                                 <div data-v-dd8b5e8a="" class="mt-2 years"> 2022</div>
@@ -116,7 +116,7 @@
                         </div>
                         <span data-v-dd8b5e8a="" id="scroll-down"
                           class="animate__animated animate__slideInDown animate__infinite "
-                          style="color: rgb(74, 60, 45);">scroll kebawah <svg data-v-dd8b5e8a="" viewBox="0 0 16 16"
+                          style="color: rgb(255, 255, 255);">scroll kebawah <svg data-v-dd8b5e8a="" viewBox="0 0 16 16"
                             width="1em" height="1em" focusable="false" role="img" aria-label="arrow down"
                             xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-arrow-down b-icon bi">
                             <g data-v-dd8b5e8a="">
