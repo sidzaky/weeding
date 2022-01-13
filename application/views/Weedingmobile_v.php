@@ -175,18 +175,19 @@
                           </div>
                           
                           <div data-v-3ae65d9e=""
-                            class="male  wow animate__animated animate__fadeInLeft col-lg-5 col-xl-5 col-12">
-                            <div data-v-3ae65d9e="" class="box">
+                            class="female wow animate__animated animate__fadeInLeft col-lg-5 col-xl-5 col-12">
+                            <div data-v-3ae65d9e="" class="box-female">
                               <div data-v-0b410839="" data-v-3ae65d9e="" class="couple-wrapper" style="width: 60%;">
-                                <div data-v-0b410839="" class="couple-img couple_decor_25"><img
-                                    src="<?php echo base_url()?>assets/img/capture.jpg" alt=""></div> <img
-                                  data-v-0b410839="" src="<?php echo base_url()?>assets/img/decor_27.webp"  alt=""
-                                  class="couple-img-decor">
-                              </div>
+                                <div data-v-0b410839="" class="couple-img couple_decor_25">
+                                    <img src="<?php echo base_url()?>assets/img/capture.jpg" alt=""
+                                        onerror="this.src = '" data-v-0b410839=""></div> <img
+                                  data-v-0b410839="" src="<?php echo base_url()?>assets/img/decor_27.webp"
+                                      onerror="this.src = '" alt=""
+                                      class="couple-img-decor" data-v-0b410839="">                              </div>
                             </div>
                             <div data-v-3ae65d9e="" class="text-center" style="margin-top: 0px;">
                               <p data-v-3ae65d9e="" class="instagram-profil"><a data-v-3ae65d9e=""
-                                  href="" target="_self" class=""
+                                href="https://twitter.com/sidzaky" target="_self" style="color:#282828;"
                                   style="color: rgb(40, 40, 40);"><b data-v-3ae65d9e=""><svg data-v-3ae65d9e=""
                                       viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
                                       aria-label="twitter" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
@@ -196,14 +197,14 @@
                                           d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z">
                                         </path>
                                       </g>
-                                    </svg> 
+                                    </svg> Affan
                                   </b></a></p>
                                   <h4 data-v-c647b94a=""><b data-v-c647b94a="">Affan Ghoffar Dzaky Hidayat</b></h4>
                                   <p data-v-c647b94a=""><b data-v-c647b94a="">Putra Kedua dari</b></p>
-                                  <p data-v-c647b94a="">Drs. Hidayaturrachman. M.pd &amp;</p> 
-                                  <span data-v-3ae65d9e="" vclass="couple-and">&amp;</span></p>
+                                  <p data-v-c647b94a="">Drs. Hidayaturrachman. M.pd &amp;</p>
+                                  </p> <span data-v-3ae65d9e="" class="couple-and">&amp;</span></p>
                                   <p data-v-c647b94a="">Dra. Nur Ikhwatin. M.pd (Alm)</p>
-                              <!---->
+                             
                             </div>
                           </div>
                         </div>
@@ -505,58 +506,6 @@
                       </div>
                     </div>
                   </section>
-                </div>
-                <div data-v-7be619d4="" data-v-3ae65d9e="" id="bottom-bar" class="">
-                  <div data-v-7be619d4="" class="wrapper add-shadow">
-                    <ul data-v-7be619d4="">
-                      <!---->
-                      <!---->
-                      <!---->
-                      <li data-v-7be619d4=""><a data-v-7be619d4="" href="#coupleProfile" target="_self"
-                          class="active"><svg data-v-7be619d4="" viewBox="0 0 16 16" width="1em" height="1em"
-                            focusable="false" role="img" aria-label="suit heart fill" xmlns="http://www.w3.org/2000/svg"
-                            fill="currentColor" class="bi-suit-heart-fill b-icon bi">
-                            <g data-v-7be619d4="">
-                              <path
-                                d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z">
-                              </path>
-                            </g>
-                          </svg> <span data-v-7be619d4="">Couple</span></a></li>
-                      <li data-v-7be619d4=""><a data-v-7be619d4="" href="#countdown" target="_self" class=""><svg
-                            data-v-7be619d4="" viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
-                            aria-label="calendar" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                            class="bi-calendar b-icon bi">
-                            <g data-v-7be619d4="">
-                              <path
-                                d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z">
-                              </path>
-                            </g>
-                          </svg> <span data-v-7be619d4="">Date</span></a></li>
-                      <li data-v-7be619d4=""><a data-v-7be619d4="" href="#maps" target="_self" class=""><svg
-                            data-v-7be619d4="" viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
-                            aria-label="map" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                            class="bi-map b-icon bi">
-                            <g data-v-7be619d4="">
-                              <path fill-rule="evenodd"
-                                d="M15.817.113A.5.5 0 0 1 16 .5v14a.5.5 0 0 1-.402.49l-5 1a.502.502 0 0 1-.196 0L5.5 15.01l-4.902.98A.5.5 0 0 1 0 15.5v-14a.5.5 0 0 1 .402-.49l5-1a.5.5 0 0 1 .196 0L10.5.99l4.902-.98a.5.5 0 0 1 .415.103zM10 1.91l-4-.8v12.98l4 .8V1.91zm1 12.98l4-.8V1.11l-4 .8v12.98zm-6-.8V1.11l-4 .8v12.98l4-.8z">
-                              </path>
-                            </g>
-                          </svg> <span data-v-7be619d4="">Location</span></a></li>
-                      <li data-v-7be619d4=""><a data-v-7be619d4="" href="#wishes" target="_self" class=""><svg
-                            data-v-7be619d4="" viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
-                            aria-label="pencil square" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                            class="bi-pencil-square b-icon bi">
-                            <g data-v-7be619d4="">
-                              <path
-                                d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456l-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z">
-                              </path>
-                              <path fill-rule="evenodd"
-                                d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z">
-                              </path>
-                            </g>
-                          </svg> <span data-v-7be619d4="">Wishes</span></a></li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
