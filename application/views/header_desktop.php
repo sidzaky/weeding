@@ -3,6 +3,7 @@
   style="--vh: 10px;" lang="en">
 
 <head>
+  
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <title>Shaqia &amp; Affan</title>
   <meta data-n-head="ssr" charset="utf-8">
@@ -14165,107 +14166,107 @@
 
     @font-face {
       font-family: "roboto-black";
-      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Black.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Roboto-Black.ttf)
     }
 
     @font-face {
       font-family: "roboto-regular";
-      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Regular.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Roboto-Regular.ttf)
     }
 
     @font-face {
       font-family: "roboto-light";
-      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Light.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Roboto-Light.ttf)
     }
 
     @font-face {
       font-family: "amanise";
-      src: url(<?php echo base_url()?>/assets/fonts/Amanise.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Amanise.ttf)
     }
 
     @font-face {
       font-family: "honey-carrot";
-      src: url(<?php echo base_url()?>/assets/fonts/Honey-Carrot.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Honey-Carrot.ttf)
     }
 
     @font-face {
       font-family: "brittney-signature";
-      src: url("<?php echo base_url()?>/assets/fonts/Brittney Signature.ttf")
+      src: url("<?php echo base_url()?>assets/fonts/Brittney Signature.ttf")
     }
 
     @font-face {
       font-family: "julietta-messie";
-      src: url(<?php echo base_url()?>/assets/fonts/Julietta.otf)
+      src: url(<?php echo base_url()?>assets/fonts/Julietta.otf)
     }
 
     @font-face {
       font-family: "malatan";
-      src: url(<?php echo base_url()?>/assets/fonts/malatan.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/malatan.ttf)
     }
 
     @font-face {
       font-family: "maxcellent";
-      src: url(<?php echo base_url()?>/assets/fonts/maxcellent.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/maxcellent.ttf)
     }
 
     @font-face {
       font-family: "salty";
-      src: url(<?php echo base_url()?>/assets/fonts/salty.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/salty.ttf)
     }
 
     @font-face {
       font-family: "twinkle";
-      src: url(<?php echo base_url()?>/assets/fonts/twinkle.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/twinkle.ttf)
     }
 
     @font-face {
       font-family: "meylina";
-      src: url(<?php echo base_url()?>/assets/fonts/Meylina_DEMO.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Meylina_DEMO.ttf)
     }
 
     @font-face {
       font-family: "billy_signature";
-      src: url(<?php echo base_url()?>/assets/fonts/billy_signature.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/billy_signature.ttf)
     }
 
     @font-face {
       font-family: "rosemary_jasmine";
-      src: url(<?php echo base_url()?>/assets/fonts/Rosemary-Jasmine.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Rosemary-Jasmine.ttf)
     }
 
     @font-face {
       font-family: "halimun";
-      src: url(<?php echo base_url()?>/assets/fonts/Halimun-W7jn.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Halimun-W7jn.ttf)
     }
 
     @font-face {
       font-family: "richard_hamilton";
-      src: url(<?php echo base_url()?>/assets/fonts/Richard.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/Richard.ttf)
     }
 
     @font-face {
       font-family: "bebas_neu";
-      src: url(<?php echo base_url()?>/assets/fonts/bebas_neu.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/bebas_neu.ttf)
     }
 
     @font-face {
       font-family: "comforta";
-      src: url(<?php echo base_url()?>/assets/fonts/comforta.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/comforta.ttf)
     }
 
     @font-face {
       font-family: "slim_summer";
-      src: url(<?php echo base_url()?>/assets/fonts/slim_summer.otf)
+      src: url(<?php echo base_url()?>assets/fonts/slim_summer.otf)
     }
 
     @font-face {
       font-family: "old_types";
-      src: url(<?php echo base_url()?>/assets/fonts/old_types.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/old_types.ttf)
     }
 
     @font-face {
       font-family: "javassoul";
-      src: url(<?php echo base_url()?>/assets/fonts/javassoul.ttf)
+      src: url(<?php echo base_url()?>assets/fonts/javassoul.ttf)
     }
 
     #coupleProfile h4 {
