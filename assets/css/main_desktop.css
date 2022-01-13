@@ -14285,111 +14285,111 @@ input[type="color"].form-control:disabled {
 .nav-link .b-icon.bi {
 	font-size: 125%;
 	vertical-align: text-bottom;
-}
+} 
 
 @font-face {
 	font-family: "roboto-black";
-	src: url(/_nuxt/fonts/Roboto-Black.1224b64.ttf);
+	src: url(/../fonts/Roboto-Black.1224b64.ttf);
 }
 
 @font-face {
 	font-family: "roboto-regular";
-	src: url(/_nuxt/fonts/Roboto-Regular.03523cf.ttf);
+	src: url(../fonts/Roboto-Regular.03523cf.ttf);
 }
 
 @font-face {
 	font-family: "roboto-light";
-	src: url(/_nuxt/fonts/Roboto-Light.0cea398.ttf);
+	src: url(../fonts/Roboto-Light.0cea398.ttf);
 }
 
 @font-face {
 	font-family: "amanise";
-	src: url(/_nuxt/fonts/Amanise.f73e260.ttf);
+	src: url(../fonts/Amanise.f73e260.ttf);
 }
 
 @font-face {
 	font-family: "honey-carrot";
-	src: url(/_nuxt/fonts/Honey-Carrot.5d786cf.ttf);
+	src: url(../fonts/Honey-Carrot.5d786cf.ttf);
 }
 
 @font-face {
 	font-family: "brittney-signature";
-	src: url("/_nuxt/fonts/Brittney Signature.80881c0.ttf");
+	src: url("../fonts/Brittney Signature.80881c0.ttf");
 }
 
 @font-face {
 	font-family: "julietta-messie";
-	src: url(/_nuxt/fonts/Julietta-Messie.9602406.otf);
+	src: url(../fonts/Julietta-Messie.9602406.otf);
 }
 
 @font-face {
 	font-family: "malatan";
-	src: url(/_nuxt/fonts/malatan.d7422f1.ttf);
+	src: url(../fonts/malatan.d7422f1.ttf);
 }
 
 @font-face {
 	font-family: "maxcellent";
-	src: url(/_nuxt/fonts/maxcellent.1a85346.ttf);
+	src: url(../fonts/maxcellent.1a85346.ttf);
 }
 
 @font-face {
 	font-family: "salty";
-	src: url(/_nuxt/fonts/salty.1e386ee.ttf);
+	src: url(../fonts/salty.1e386ee.ttf);
 }
 
 @font-face {
 	font-family: "twinkle";
-	src: url(/_nuxt/fonts/twinkle.5439246.ttf);
+	src: url(../fonts/twinkle.5439246.ttf);
 }
 
 @font-face {
 	font-family: "meylina";
-	src: url(/_nuxt/fonts/Meylina_DEMO.618ead9.ttf);
+	src: url(../fonts/Meylina_DEMO.618ead9.ttf);
 }
 
 @font-face {
 	font-family: "billy_signature";
-	src: url(/_nuxt/fonts/billy_signature.342ac43.ttf);
+	src: url(../fonts/billy_signature.342ac43.ttf);
 }
 
 @font-face {
 	font-family: "rosemary_jasmine";
-	src: url(/_nuxt/fonts/Rosemary-Jasmine.76fcb97.ttf);
+	src: url(../fonts/Rosemary-Jasmine.76fcb97.ttf);
 }
 
 @font-face {
 	font-family: "halimun";
-	src: url(/_nuxt/fonts/Halimun-W7jn.d49fc08.ttf);
+	src: url(../fonts/Halimun-W7jn.d49fc08.ttf);
 }
 
 @font-face {
 	font-family: "richard_hamilton";
-	src: url(/_nuxt/fonts/Richard-Hamilton.2a56f5a.ttf);
+	src: url(../fonts/Richard-Hamilton.2a56f5a.ttf);
 }
 
 @font-face {
 	font-family: "bebas_neu";
-	src: url(/_nuxt/fonts/bebas_neu.c501e16.ttf);
+	src: url(../fonts/bebas_neu.c501e16.ttf);
 }
 
 @font-face {
 	font-family: "comforta";
-	src: url(/_nuxt/fonts/comforta.c6eb380.ttf);
+	src: url(../fonts/comforta.c6eb380.ttf);
 }
 
 @font-face {
 	font-family: "slim_summer";
-	src: url(/_nuxt/fonts/slim_summer.e8efb1e.otf);
+	src: url(../fonts/slim_summer.e8efb1e.otf);
 }
 
 @font-face {
 	font-family: "old_types";
-	src: url(/_nuxt/fonts/old_types.db3851a.ttf);
+	src: url(../fonts/old_types.db3851a.ttf);
 }
 
 @font-face {
 	font-family: "javassoul";
-	src: url(/_nuxt/fonts/javassoul.8fa36a0.ttf);
+	src: url(../fonts/javassoul.8fa36a0.ttf);
 }
 
 #coupleProfile h4 {

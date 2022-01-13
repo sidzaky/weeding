@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="  webp webp-alpha webp-animation webp-lossless"
-  style="--vh: 9.27px;" lang="en">
+  style="--vh: 10px;" lang="en">
 
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -31,7 +31,7 @@
   <link rel="preload" href="<?php echo base_url()?>assets/js/8164c19.js" as="script">
   <link rel="preload" href="<?php echo base_url()?>assets/js/48a2609.js" as="script">
   <link rel="preload" href="<?php echo base_url()?>assets/js/countdown.js" as="script">
-  <link data-n-head="ssr" rel="stylesheet" href="<?php echo base_url()?>assets/css/main_desktop.css">
+  <style>url(<?php echo base_url()?>);</style>
   <style data-vue-ssr-id="71f83a6d:0 32df6d42:0 b13bd09c:0 650f1d22:0 7e56e4e3:0 56b15182:0 6aa9c286:0 6a418fd4:0 e99b6600:0 2ac988cd:0 7c6ea576:0 0b3e7722:0 29fad306:0 0185fd89:0 1a50e5ec:0 4f9f2f5a:0 4769a5b5:0 539de9c6:0 4a854e75:0 042e2ef9:0 491e5ff9:0 4aaa5fdf:0 d7d996e2:0 76575fda:0 011f47d6:0 10c311bb:0 796281b2:0">
     /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
@@ -67,7 +67,8 @@
       --breakpoint-lg: 992px;
       --breakpoint-xl: 1200px;
       --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-      --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+      --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      --url: <?php echo base_url();?>
     }
 
     *,
@@ -14164,107 +14165,107 @@
 
     @font-face {
       font-family: "roboto-black";
-      src: url(/_nuxt/fonts/Roboto-Black.1224b64.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Black.ttf)
     }
 
     @font-face {
       font-family: "roboto-regular";
-      src: url(/_nuxt/fonts/Roboto-Regular.03523cf.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Regular.ttf)
     }
 
     @font-face {
       font-family: "roboto-light";
-      src: url(/_nuxt/fonts/Roboto-Light.0cea398.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Light.ttf)
     }
 
     @font-face {
       font-family: "amanise";
-      src: url(/_nuxt/fonts/Amanise.f73e260.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Amanise.ttf)
     }
 
     @font-face {
       font-family: "honey-carrot";
-      src: url(/_nuxt/fonts/Honey-Carrot.5d786cf.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Honey-Carrot.ttf)
     }
 
     @font-face {
       font-family: "brittney-signature";
-      src: url("/_nuxt/fonts/Brittney Signature.80881c0.ttf")
+      src: url("<?php echo base_url()?>/assets/fonts/Brittney Signature.ttf")
     }
 
     @font-face {
       font-family: "julietta-messie";
-      src: url(/_nuxt/fonts/Julietta-Messie.9602406.otf)
+      src: url(<?php echo base_url()?>/assets/fonts/Julietta.otf)
     }
 
     @font-face {
       font-family: "malatan";
-      src: url(/_nuxt/fonts/malatan.d7422f1.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/malatan.ttf)
     }
 
     @font-face {
       font-family: "maxcellent";
-      src: url(/_nuxt/fonts/maxcellent.1a85346.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/maxcellent.ttf)
     }
 
     @font-face {
       font-family: "salty";
-      src: url(/_nuxt/fonts/salty.1e386ee.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/salty.ttf)
     }
 
     @font-face {
       font-family: "twinkle";
-      src: url(/_nuxt/fonts/twinkle.5439246.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/twinkle.ttf)
     }
 
     @font-face {
       font-family: "meylina";
-      src: url(/_nuxt/fonts/Meylina_DEMO.618ead9.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Meylina_DEMO.ttf)
     }
 
     @font-face {
       font-family: "billy_signature";
-      src: url(/_nuxt/fonts/billy_signature.342ac43.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/billy_signature.ttf)
     }
 
     @font-face {
       font-family: "rosemary_jasmine";
-      src: url(/_nuxt/fonts/Rosemary-Jasmine.76fcb97.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Rosemary-Jasmine.ttf)
     }
 
     @font-face {
       font-family: "halimun";
-      src: url(/_nuxt/fonts/Halimun-W7jn.d49fc08.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Halimun-W7jn.ttf)
     }
 
     @font-face {
       font-family: "richard_hamilton";
-      src: url(/_nuxt/fonts/Richard-Hamilton.2a56f5a.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Richard.ttf)
     }
 
     @font-face {
       font-family: "bebas_neu";
-      src: url(/_nuxt/fonts/bebas_neu.c501e16.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/bebas_neu.ttf)
     }
 
     @font-face {
       font-family: "comforta";
-      src: url(/_nuxt/fonts/comforta.c6eb380.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/comforta.ttf)
     }
 
     @font-face {
       font-family: "slim_summer";
-      src: url(/_nuxt/fonts/slim_summer.e8efb1e.otf)
+      src: url(<?php echo base_url()?>/assets/fonts/slim_summer.otf)
     }
 
     @font-face {
       font-family: "old_types";
-      src: url(/_nuxt/fonts/old_types.db3851a.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/old_types.ttf)
     }
 
     @font-face {
       font-family: "javassoul";
-      src: url(/_nuxt/fonts/javassoul.8fa36a0.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/javassoul.ttf)
     }
 
     #coupleProfile h4 {

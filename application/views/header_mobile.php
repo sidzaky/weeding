@@ -4,11 +4,11 @@
 
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <title>Undangan pernikahan - Shelvy &amp; Agung</title>
+  <title>Shaqia &amp; Affan</title>
   <meta data-n-head="ssr" charset="utf-8">
   <meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
   <meta data-n-head="ssr" data-hid="keywords" name="keywords"
-    content="undangan pernikahan, undangan murah, buat undangan online, web nikah, website pernikahan, covid, unik, simple, web undangan online, design undangan wedding, wedding invitation, wedding invitation builder platform,  wedding, website undangan pernikahan">
+    content="Shaqia & Affan">
   <meta data-n-head="ssr" data-hid="charset" charset="utf-8">
   <meta data-n-head="ssr" data-hid="mobile-web-app-capable" name="mobile-web-app-capable" content="yes">
   <link data-n-head="ssr" rel="stylesheet" href="<?php echo base_url()?>assets/css/animate.css">
@@ -22,19 +22,7 @@
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/wow.js" defer="defer"></script>
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/smooth-scroll.js" defer="defer"></script>
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/owl.js" defer="defer"></script>
-  <script data-n-head="ssr" data-hid="OnesignalSDK" src="<?php echo base_url()?>assets/js/OneSignalSDK.js" async=""></script>
-  <link rel="preload" href="<?php echo base_url()?>assets/js/d4f2eb5.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/8ec2fcc.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/993bbc6.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/4cb376a.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/0807547.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/1a9f6d8.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/4a90232.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/fa34487.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/8164c19.js" as="script">
-  <link rel="preload" href="<?php echo base_url()?>assets/js/48a2609.js" as="script">
-  <style
-    data-vue-ssr-id="71f83a6d:0 32df6d42:0 b13bd09c:0 650f1d22:0 7e56e4e3:0 56b15182:0 6aa9c286:0 700572ff:0 0185fd89:0 1a50e5ec:0 4f9f2f5a:0 4769a5b5:0 539de9c6:0 4a854e75:0 042e2ef9:0 491e5ff9:0 4aaa5fdf:0 d7d996e2:0 76575fda:0 011f47d6:0 2ac988cd:0 7c6ea576:0 10c311bb:0 796281b2:0 0b3e7722:0 29fad306:0">
+  <style data-vue-ssr-id="71f83a6d:0 32df6d42:0 b13bd09c:0 650f1d22:0 7e56e4e3:0 56b15182:0 6aa9c286:0 700572ff:0 0185fd89:0 1a50e5ec:0 4f9f2f5a:0 4769a5b5:0 539de9c6:0 4a854e75:0 042e2ef9:0 491e5ff9:0 4aaa5fdf:0 d7d996e2:0 76575fda:0 011f47d6:0 2ac988cd:0 7c6ea576:0 10c311bb:0 796281b2:0 0b3e7722:0 29fad306:0">
     /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
@@ -14166,107 +14154,107 @@
 
     @font-face {
       font-family: "roboto-black";
-      src: url(/_nuxt/fonts/Roboto-Black.1224b64.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Black.ttf)
     }
 
     @font-face {
       font-family: "roboto-regular";
-      src: url(/_nuxt/fonts/Roboto-Regular.03523cf.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Regular.ttf)
     }
 
     @font-face {
       font-family: "roboto-light";
-      src: url(/_nuxt/fonts/Roboto-Light.0cea398.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Roboto-Light.ttf)
     }
 
     @font-face {
       font-family: "amanise";
-      src: url(/_nuxt/fonts/Amanise.f73e260.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Amanise.ttf)
     }
 
     @font-face {
       font-family: "honey-carrot";
-      src: url(/_nuxt/fonts/Honey-Carrot.5d786cf.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Honey-Carrot.ttf)
     }
 
     @font-face {
       font-family: "brittney-signature";
-      src: url("/_nuxt/fonts/Brittney Signature.80881c0.ttf")
+      src: url("<?php echo base_url()?>/assets/fonts/Brittney Signature.ttf")
     }
 
     @font-face {
       font-family: "julietta-messie";
-      src: url(/_nuxt/fonts/Julietta-Messie.9602406.otf)
+      src: url(<?php echo base_url()?>/assets/fonts/Julietta-Messie.otf)
     }
 
     @font-face {
       font-family: "malatan";
-      src: url(/_nuxt/fonts/malatan.d7422f1.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/malatan.ttf)
     }
 
     @font-face {
       font-family: "maxcellent";
-      src: url(/_nuxt/fonts/maxcellent.1a85346.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/maxcellent.ttf)
     }
 
     @font-face {
       font-family: "salty";
-      src: url(/_nuxt/fonts/salty.1e386ee.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/salty.ttf)
     }
 
     @font-face {
       font-family: "twinkle";
-      src: url(/_nuxt/fonts/twinkle.5439246.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/twinkle.ttf)
     }
 
     @font-face {
       font-family: "meylina";
-      src: url(/_nuxt/fonts/Meylina_DEMO.618ead9.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Meylina_DEMO.ttf)
     }
 
     @font-face {
       font-family: "billy_signature";
-      src: url(/_nuxt/fonts/billy_signature.342ac43.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/billy_signature.ttf)
     }
 
     @font-face {
       font-family: "rosemary_jasmine";
-      src: url(/_nuxt/fonts/Rosemary-Jasmine.76fcb97.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Rosemary-Jasmine.ttf)
     }
 
     @font-face {
       font-family: "halimun";
-      src: url(/_nuxt/fonts/Halimun-W7jn.d49fc08.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Halimun-W7jn.ttf)
     }
 
     @font-face {
       font-family: "richard_hamilton";
-      src: url(/_nuxt/fonts/Richard-Hamilton.2a56f5a.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/Richard-Hamilton.ttf)
     }
 
     @font-face {
       font-family: "bebas_neu";
-      src: url(/_nuxt/fonts/bebas_neu.c501e16.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/bebas_neu.ttf)
     }
 
     @font-face {
       font-family: "comforta";
-      src: url(/_nuxt/fonts/comforta.c6eb380.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/comforta.ttf)
     }
 
     @font-face {
       font-family: "slim_summer";
-      src: url(/_nuxt/fonts/slim_summer.e8efb1e.otf)
+      src: url(<?php echo base_url()?>/assets/fonts/slim_summer.otf)
     }
 
     @font-face {
       font-family: "old_types";
-      src: url(/_nuxt/fonts/old_types.db3851a.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/old_types.ttf)
     }
 
     @font-face {
       font-family: "javassoul";
-      src: url(/_nuxt/fonts/javassoul.8fa36a0.ttf)
+      src: url(<?php echo base_url()?>/assets/fonts/javassoul.ttf)
     }
 
     #coupleProfile h4 {
@@ -17263,7 +17251,6 @@
       }
     }
   </style>
-  <script src="OneSignalPageSDKES6.js" async=""></script>
   <style type="text/css">
     .__nuxt-error-page {
       padding: 1rem;
@@ -17314,8 +17301,6 @@
       bottom: 12px
     }
   </style>
-  <script charset="utf-8" src="cb36ca2.js"></script>
-  <script async="" src="hotjar-2092117.js"></script>
   <style type="text/css">
     .CodeMirror {
       font-family: monospace;
@@ -19580,24 +19565,6 @@
 
     #coupleProfile .couple-detail p[data-v-c647b94a] {
       font-size: 14px
-    }
-  </style>
-  <link href="https://www.google-analytics.com/" rel="preconnect">
-  <script async="" src="analytics.js" charset="utf-8"></script>
-  <script async="" defer="defer" src="mdxL_shelvyagung_data/api.js"></script>
-  <style>
-    .grecaptcha-badge {
-      visibility: hidden;
-    }
-  </style>
-  <script async="" src="modules.js" charset="utf-8"></script>
-  <style type="text/css">
-    iframe#_hjRemoteVarsFrame {
-      display: none !important;
-      width: 1px !important;
-      height: 1px !important;
-      opacity: 0 !important;
-      pointer-events: none !important;
     }
   </style>
 </head>

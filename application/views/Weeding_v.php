@@ -314,9 +314,9 @@
 							  		id="Detik"  data-v-c647b94a=""></b></span><b data-v-c647b94a="">Detik</b></li>
                             </ul>
                             <p class="tgl-acara wow animate__animated animate__fadeInUp" data-v-c647b94a="">♥
-                              Minggu, 22 Januari 2022 ♥</p>
+                              Sabtu, 22 Januari 2022 ♥</p>
                           </div>
-						  <script>
+						      <script>
 									  var countDownDate = new Date("Jan 22, 2022 08:00:00").getTime();
 										// Update the count down every 1 second
 										var x = setInterval(function() {
@@ -389,7 +389,7 @@
                           <div id="adressWrapper" data-v-c647b94a="">
                             <div id="maps" class="cover" data-v-c647b94a="">
                               <div class="google-maps" data-v-c647b94a="">
-							  <iframe  id="gmap_canvas" src="https://maps.google.com/maps?q=hotel%20patra%20cirebon&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+							                  <iframe  id="gmap_canvas" src="https://maps.google.com/maps?q=hotel%20patra%20cirebon&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
 
 							  </div>
                             </div>

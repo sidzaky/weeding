@@ -12,7 +12,7 @@ font-size: 3rem !important;
 }
 
 #coupleProfile .col-lg-2{
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/7zVPV19IsHX0D0qtQy9F78/c3335d3c6b02f55082b18042e59dc13d/New_Project__56_.png');
+background-image: url('../img/New_Project__56_.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -39,7 +39,7 @@ height: max-content;
 margin: 2rem 0;
 position: relative;
 padding: 0 !important;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/XHA6m4iOMt7HzDqAclLvl/0280a39e4443322dd5450954a6424e4f/New_Project__67_.png');
+background-image: url('../img/New_Project__67_.png');
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
@@ -77,7 +77,7 @@ border-radius: 2rem;
 margin: 2rem 0;
 padding-bottom: 2rem;
 position: relative;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/2DKFUnnr1bi2Pj6KeWuudk/69c4c218aa89d3736c59a8ae7510e5f2/Vector_Smart_Object1-ai__1___1_.png');
+background-image: url('../img/Vector_Smart_Object1-ai__1___1_.png');
 background-size: unset;
 background-repeat: no-repeat;
 background-position: bottom;
@@ -129,7 +129,7 @@ margin-bottom: 0 !important;
 padding-top: 2rem;
 position: relative;
 padding-bottom: 1rem;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/XHA6m4iOMt7HzDqAclLvl/0280a39e4443322dd5450954a6424e4f/New_Project__67_.png');
+background-image: url('../img/New_Project__67_.png');
 background-size: cover;
 background-repeat-y: no-repeat;
 background-position: center;
@@ -139,7 +139,7 @@ background-position: center;
 content: ' ';
 width: 100%;
 height: 100%;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/W45YYZF0qjDWyKC0273qV/b25c0d758fa23ed8bcfb1ae6a7831a3d/New_Project__60___1_.png');
+background-image: url('../img/New_Project__60___1_.png');
 background-size: contain;
 background-repeat: no-repeat;
 background-position-x: left;
@@ -152,7 +152,7 @@ top: 25%;
 content: ' ';
 width: 100%;
 height: 100%;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/4BAV3vLkHQC8A5uRJh3VAt/cd601967e24b49be61cc4bae143b7bf0/New_Project__63_.png');
+background-image: url('../img/New_Project__63_.png');
 background-size: contain;
 background-repeat: no-repeat;
 background-position-x: right;
@@ -215,7 +215,7 @@ margin: 0;
 #live{
 margin: 1rem 0;
 position: relative;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/2DKFUnnr1bi2Pj6KeWuudk/69c4c218aa89d3736c59a8ae7510e5f2/Vector_Smart_Object1-ai__1___1_.png');
+background-image: url('../img/Vector_Smart_Object1-ai__1___1_.png');
 background-size: unset;
 background-repeat: no-repeat;
 background-position: bottom;
@@ -240,7 +240,7 @@ padding-bottom: 1rem;
 height: 70vh !important;
 }
 .rundown .item-rundown{
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/2DKFUnnr1bi2Pj6KeWuudk/69c4c218aa89d3736c59a8ae7510e5f2/Vector_Smart_Object1-ai__1___1_.png');
+background-image: url('../img/Vector_Smart_Object1-ai__1___1_.png');
     background-position-x: center;
     background-position-y: bottom;
 background-repeat: no-repeat;
@@ -261,14 +261,14 @@ float: left;
 width:100%;
 position: relative;
 margin-bottom: 2rem;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/XHA6m4iOMt7HzDqAclLvl/0280a39e4443322dd5450954a6424e4f/New_Project__67_.png');
+background-image: url('../img/New_Project__67_.png');
 background-size: cover;
 background-position: center;
 }
 
 
 #section-bottom{
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/XHA6m4iOMt7HzDqAclLvl/0280a39e4443322dd5450954a6424e4f/New_Project__67_.png');
+background-image: url('../img/New_Project__67_.png');
 background-size: cover;
 padding-top: 0;
 margin-top: 4rem;
@@ -314,7 +314,7 @@ box-shadow: 2px 3px 7px 0px #eacab9;
 padding-top: 0;
 margin-top: 3rem;
 background-color: transparent !important;
-background-image: url('https://images.ctfassets.net/q40z6pfqje6o/1gMLKDbCOGaWyxBDdmhG9o/1dd56a82613b7da888cbe369aa8d849f/New_Project__65_.png');
+background-image: url('../img/New_Project__65_.png');
 background-size: contain;
 background-position: bottom;
 background-repeat-y: no-repeat;
