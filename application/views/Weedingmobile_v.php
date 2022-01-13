@@ -128,6 +128,73 @@
                       </svg></div>
                   </div>
                 </div>
+                <div data-v-3ae65d9e="" class="cover rundown">
+                        <div data-v-3ae65d9e="" class="container" style="position: relative; z-index: 2;">
+                          <div data-v-3ae65d9e="" class="top-acara"></div>
+                          <div data-v-3ae65d9e="" class="row justify-content-md-center">
+                            <div data-v-3ae65d9e=""
+                              class="item-rundown wow animate__animated animate__fadeInUp col-lg-4 col-12">
+                              <h1 data-v-3ae65d9e="">akad nikah</h1>
+                              <p data-v-3ae65d9e="">Sabtu, 22 Januari 2022</p>
+                              <p data-v-3ae65d9e=""><svg data-v-3ae65d9e="" viewBox="0 0 16 16" width="1em" height="1em"
+                                  focusable="false" role="img" aria-label="clock" xmlns="http://www.w3.org/2000/svg"
+                                  fill="currentColor" class="bi-clock b-icon bi">
+                                  <g data-v-3ae65d9e="">
+                                    <path
+                                      d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z">
+                                    </path>
+                                    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z">
+                                    </path>
+                                  </g>
+                                </svg>
+                                pukul 08:00 WIB
+                                -
+                                selesai
+                              </p>
+                              <p data-v-3ae65d9e="" style="white-space: pre-wrap;"><svg data-v-3ae65d9e=""
+                                  viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
+                                  aria-label="signpost2 fill" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+                                  class="bi-signpost2-fill b-icon bi">
+                                  <g data-v-3ae65d9e="">
+                                    <path
+                                      d="M7.293.707A1 1 0 0 0 7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586A1 1 0 0 0 7.293.707z">
+                                    </path>
+                                  </g>
+                                </svg>  Patra Cirebon Hotel & Convention Kedawung, Cirebon
+                              </p>
+                              <p data-v-3ae65d9e=""><a data-v-3ae65d9e="" href="https://goo.gl/maps/tY3VGLTGFfmgCdYB8"
+                                  rel="noopener" target="_blank" class="btn btn-outline-primary rounded-pill">lihat
+                                  lokasi
+                                </a></p>
+                            </div>
+                            <div data-v-3ae65d9e=""
+                              class="item-rundown wow animate__animated animate__fadeInUp col-lg-4 col-12">
+                              <h1 data-v-3ae65d9e="">Resepsi</h1>
+                              <p data-v-3ae65d9e="">Sabtu, 22 Januari 2022</p>
+                              <p data-v-3ae65d9e=""><svg data-v-3ae65d9e="" viewBox="0 0 16 16" width="1em" height="1em"
+                                  focusable="false" role="img" aria-label="clock" xmlns="http://www.w3.org/2000/svg"
+                                  fill="currentColor" class="bi-clock b-icon bi">
+                                  <g data-v-3ae65d9e="">
+                                    <path
+                                      d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z">
+                                    </path>
+                                    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z">
+                                    </path>
+                                  </g>
+                                </svg>
+                                pukul 11:00 WIB
+                                -
+                                14:00 WIB
+                              </p>
+                              <!---->
+                              <p data-v-3ae65d9e="">
+                                <!---->
+                              </p>
+                            </div>
+                          </div>
+                          <div data-v-3ae65d9e="" class="top-acara"></div>
+                        </div>
+                      </div>
                 <div data-v-3ae65d9e="">
                   <section data-v-3ae65d9e="" id="coupleProfile">
                     <h1 data-v-3ae65d9e="" class="title-text text-center wow animate__animated animate__fadeInUp"
@@ -260,6 +327,7 @@
                             }
                             }, 1000);
 								      </script>
+                      
                       <div data-v-3ae65d9e="" class="wrapBtn container">
                         <div data-v-3ae65d9e="" class="row">
                           <div data-v-3ae65d9e="" class="col-sm-12 col-lg-12" align="center"><a data-v-658b0615=""
@@ -331,27 +399,6 @@
                             </g>
                           </svg></div>
                       </div>
-                      <section data-v-3ae65d9e="" id="rsvp">
-                        <div data-v-bbff02ea="" data-v-3ae65d9e="" class="cover text-center">
-                          <div data-v-bbff02ea="" class="container">
-                            <p data-v-bbff02ea="" class="will-join"><b data-v-bbff02ea="">26 tamu</b> merespon akan
-                              datang, <br data-v-bbff02ea=""> kirim konfirmasi.</p>
-                          </div> <button data-v-bbff02ea="" type="button" class="btn btn-success btn-lg"><svg
-                              data-v-bbff02ea="" viewBox="0 0 16 16" width="1em" height="1em" focusable="false"
-                              role="img" aria-label="card checklist" xmlns="http://www.w3.org/2000/svg"
-                              fill="currentColor" class="bi-card-checklist b-icon bi">
-                              <g data-v-bbff02ea="">
-                                <path
-                                  d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h13zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2h-13z">
-                                </path>
-                                <path
-                                  d="M7 5.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm-1.496-.854a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 1 1 .708-.708l.146.147 1.146-1.147a.5.5 0 0 1 .708 0zM7 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm-1.496-.854a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 0 1 .708-.708l.146.147 1.146-1.147a.5.5 0 0 1 .708 0z">
-                                </path>
-                              </g>
-                            </svg> <b data-v-bbff02ea="">Konfirmasi Kehadiran</b></button>
-                          <!---->
-                        </div>
-                      </section>
                       <div data-v-3ae65d9e="" id="adressWrapper">
                         <div data-v-3ae65d9e="" id="maps" class="cover">
                           <div data-v-3ae65d9e="" class="google-maps"><iframe  id="gmap_canvas" src="https://maps.google.com/maps?q=hotel%20patra%20cirebon&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
@@ -364,73 +411,7 @@
                             class="btn btn-lokasi btn-outline-primary rounded-pill">lihat lokasi
                           </a></p>
                       </div>
-                      <div data-v-3ae65d9e="" class="cover rundown">
-                        <div data-v-3ae65d9e="" class="container" style="position: relative; z-index: 2;">
-                          <div data-v-3ae65d9e="" class="top-acara"></div>
-                          <div data-v-3ae65d9e="" class="row justify-content-md-center">
-                            <div data-v-3ae65d9e=""
-                              class="item-rundown wow animate__animated animate__fadeInUp col-lg-4 col-12">
-                              <h1 data-v-3ae65d9e="">akad nikah</h1>
-                              <p data-v-3ae65d9e="">Sabtu, 22 Januari 2022</p>
-                              <p data-v-3ae65d9e=""><svg data-v-3ae65d9e="" viewBox="0 0 16 16" width="1em" height="1em"
-                                  focusable="false" role="img" aria-label="clock" xmlns="http://www.w3.org/2000/svg"
-                                  fill="currentColor" class="bi-clock b-icon bi">
-                                  <g data-v-3ae65d9e="">
-                                    <path
-                                      d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z">
-                                    </path>
-                                    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z">
-                                    </path>
-                                  </g>
-                                </svg>
-                                pukul 08:00 WIB
-                                -
-                                selesai
-                              </p>
-                              <p data-v-3ae65d9e="" style="white-space: pre-wrap;"><svg data-v-3ae65d9e=""
-                                  viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
-                                  aria-label="signpost2 fill" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                                  class="bi-signpost2-fill b-icon bi">
-                                  <g data-v-3ae65d9e="">
-                                    <path
-                                      d="M7.293.707A1 1 0 0 0 7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586A1 1 0 0 0 7.293.707z">
-                                    </path>
-                                  </g>
-                                </svg>  Patra Cirebon Hotel & Convention Kedawung, Cirebon
-                              </p>
-                              <p data-v-3ae65d9e=""><a data-v-3ae65d9e="" href="https://goo.gl/maps/tY3VGLTGFfmgCdYB8"
-                                  rel="noopener" target="_blank" class="btn btn-outline-primary rounded-pill">lihat
-                                  lokasi
-                                </a></p>
-                            </div>
-                            <div data-v-3ae65d9e=""
-                              class="item-rundown wow animate__animated animate__fadeInUp col-lg-4 col-12">
-                              <h1 data-v-3ae65d9e="">Resepsi</h1>
-                              <p data-v-3ae65d9e="">Sabtu, 22 Januari 2022</p>
-                              <p data-v-3ae65d9e=""><svg data-v-3ae65d9e="" viewBox="0 0 16 16" width="1em" height="1em"
-                                  focusable="false" role="img" aria-label="clock" xmlns="http://www.w3.org/2000/svg"
-                                  fill="currentColor" class="bi-clock b-icon bi">
-                                  <g data-v-3ae65d9e="">
-                                    <path
-                                      d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z">
-                                    </path>
-                                    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z">
-                                    </path>
-                                  </g>
-                                </svg>
-                                pukul 11:00 WIB
-                                -
-                                14:00 WIB
-                              </p>
-                              <!---->
-                              <p data-v-3ae65d9e="">
-                                <!---->
-                              </p>
-                            </div>
-                          </div>
-                          <div data-v-3ae65d9e="" class="top-acara"></div>
-                        </div>
-                      </div>
+                      
                     </div>
                   </section>
                 </div>
@@ -439,63 +420,6 @@
                 <div data-v-3ae65d9e="">
                   <!---->
                 </div>
-                      <div data-v-697613cf="" class="cover">
-                        <div data-v-697613cf="" class="wishes container">
-                          <p data-v-697613cf=""><b data-v-697613cf="">Kirim ucapan:</b></p>
-                          <form data-v-697613cf="" class="">
-                            <!---->
-                            <fieldset data-v-697613cf="" class="form-group" id="__BVID__140">
-                              <!---->
-                              <div><input data-v-697613cf="" type="text" placeholder="Nama lengkap" required="required"
-                                  aria-required="true" class="form-control" maxlength="200" id="__BVID__141">
-                                <!---->
-                                <!---->
-                                <!---->
-                              </div>
-                            </fieldset>
-                            <fieldset data-v-697613cf="" class="form-group" id="__BVID__142">
-                              <!---->
-                              <div><textarea data-v-697613cf="" placeholder="Alamat" required="required" rows="2"
-                                  aria-required="true" class="form-control" maxlength="200" id="__BVID__143"
-                                  wrap="soft"></textarea>
-                                <!---->
-                                <!---->
-                                <!---->
-                              </div>
-                            </fieldset>
-                            <fieldset data-v-697613cf="" class="form-group" id="__BVID__144">
-                              <!---->
-                              <div>
-                                <div data-v-697613cf="" class="custom-file b-form-file"
-                                  id="__BVID__145__BV_file_outer_"><input type="file" class="custom-file-input"
-                                    style="z-index: -5;" id="__BVID__145"><label data-browse="Browse"
-                                    class="custom-file-label" for="__BVID__145"><span class="d-block form-file-text"
-                                      style="pointer-events: none;">Bagikan momentmu</span></label></div>
-                                <!---->
-                                <!----><small tabindex="-1" class="form-text text-muted"
-                                  id="__BVID__144__BV_description_">optional</small>
-                              </div>
-                            </fieldset>
-                            <fieldset data-v-697613cf="" class="form-group" id="__BVID__146">
-                              <!---->
-                              <div><textarea data-v-697613cf="" placeholder="hari yang indah untuk pasangan"
-                                  required="required" rows="3" aria-required="true" class="form-control" maxlength="200"
-                                  id="__BVID__147" wrap="soft"></textarea>
-                                <!---->
-                                <!---->
-                                <!---->
-                              </div>
-                            </fieldset>
-                            <div data-v-697613cf="" class="b-overlay-wrap position-relative"><button data-v-697613cf=""
-                                type="submit" class="btn btn-primary btn-block rounded-pill">Kirim sekarang</button>
-                              <!---->
-                            </div>
-                          </form>
-                          <!---->
-                        </div>
-                      </div>
-                    </div>
-                  </section>
                   <section data-v-3ae65d9e="" id="footer">
                     <div data-v-3ae65d9e="" class="container">
                       <div data-v-3ae65d9e="" class="row">
