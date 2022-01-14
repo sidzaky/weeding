@@ -173,7 +173,7 @@
                                   </g>
                                 </svg>  Patra Cirebon Hotel & Convention Kedawung, Cirebon
                               </p>
-                              <p data-v-3ae65d9e=""><a data-v-3ae65d9e="" href="https://goo.gl/maps/tY3VGLTGFfmgCdYB8"
+                              <p data-v-3ae65d9e=""><a data-v-3ae65d9e="" href="https://g.page/Patra-Cirebon?share"
                                   rel="noopener" target="_blank" class="btn btn-outline-primary rounded-pill">lihat
                                   lokasi
                                 </a></p>
