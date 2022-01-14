@@ -7,22 +7,26 @@
         <div data-v-0fad4f82="" id="main-wrap" class="cover no-scroll">
           <div data-v-0fad4f82="" class="cover main-page style_minimalist font-salty-title">
             <div data-v-3ae65d9e="" data-v-0fad4f82="" class="layout-cover cover animate__animated animate__fadeIn">
-              <div data-v-dd8b5e8a="" data-v-3ae65d9e="" id="welcome" class="animate__animated  ">
+              <div data-v-dd8b5e8a="" data-v-3ae65d9e="" id="welcome" class="animate__animated">
                 <div data-v-dd8b5e8a="" class="wrapper"
                   style="background-image: url(&quot;<?php echo base_url()?>assets/img/background4.jpg&quot;);">
                   <div data-v-dd8b5e8a="" class="wrap-overlay middle "
-                    style="background-color: rgba(255, 255, 255, 0.2);display:hidden;">
+                    style="background-color: rgba(255, 255, 255, 0.2);">
                     <div data-v-dd8b5e8a="" class="new_premCover">
                       <div data-v-dd8b5e8a="" class="text-wrapper animate__animated animate__fadeIn"
                         style="color: rgb(255, 255, 255);">
                         <p data-v-dd8b5e8a="" id="wedding-of" class="animate__animated animate__fadeInDown"
                           style="animation-delay: 0.8s;">Undangan pernikahan</p>
-                        <div data-v-dd8b5e8a="" id="couple-name" class="couple-name animate__animated animate__zoomIn"
-                          style="animation-delay: 1s;">
-                          <h1 data-v-dd8b5e8a="" id="cover_female_name" style="font-size: 2rem;">Shaqia </h1>
-                          <div data-v-dd8b5e8a="" id="cover_and_name" class="new_coverName"><span data-v-dd8b5e8a="">dan</span>
-                          <h1 data-v-dd8b5e8a="" id="cover_male_name" class="new_coverH1" style="font-size: 2rem;"><br>Affan</h1>
-                          </div>
+                          <div data-v-dd8b5e8a="" id="couple-name"
+                              class="couple-name animate__animated animate__zoomIn" style="animation-delay: 1s;">
+                              <h1 data-v-dd8b5e8a="" id="cover_female_name" style="font-size: 2rem;">
+                                Shaqia </h1>
+                              <div data-v-dd8b5e8a="" id="cover_and_name" class="new_coverName"><span
+                                  data-v-dd8b5e8a="">dan</span>
+                                <h1 data-v-dd8b5e8a="" id="cover_male_name" class="new_coverH1"
+                                  style="font-size: 2rem;">
+                                  Affan</h1>
+                              </div>
                           <div data-v-dd8b5e8a="" class="new_date animate__animated animate__fadeInUp"
                             style="animation-delay: 1.3s;">
                             <div data-v-dd8b5e8a="" class="row justify-content-between px-3 align-items-center">
@@ -31,37 +35,24 @@
                                 Sabtu</div>
                               <div data-v-dd8b5e8a="" class="p-0 col-3">
                                 <h1 data-v-dd8b5e8a="" class="mb-0" style="font-size: 2rem;">
-                                  22</h1>
+                                2022 </h1>
                               </div>
                               <div data-v-dd8b5e8a="" class="border-date col-4"
                                 style="border-top: 2px solid rgb(255, 255, 255); border-bottom: 2px solid rgb(255, 255, 255);">
-                                Januari</div>
+                                22 Januari</div>
                             </div>
-                            <div data-v-dd8b5e8a="" class="mt-2 years"> 2022</div>
                           </div>
                         </div>
                       </div>
                     </div>
-                    <button data-v-dd8b5e8a="" id="bukaundangan" onclick='$("#welcome").addClass("hide");$("#main-wrap").removeClass("no-scroll");' type="button"
+                    <button data-v-dd8b5e8a="" id="bukaundangan" onclick='$("#welcome").remove();$("#main-wrap").removeClass("no-scroll");' type="button"
                       class="btn btn-outline-dark rounded-pill undefined animate__infinite animate__animated animate__flash animate__slower"
                       style="color: rgb(255, 255, 255); border: 2px solid rgb(255, 255, 255); animation-delay: 0.6s;">buka
                       undangan</button>
                   </div>
                 </div>
               </div>
-              <div data-v-3ae65d9e="" class="content-layout cover"><a data-v-3ae65d9e="" href="#" target="_self"
-                  class="music-control add-shadow off"><svg data-v-3ae65d9e="" viewBox="0 0 16 16" width="1em"
-                    height="1em" focusable="false" role="img" aria-label="music note list"
-                    xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi-music-note-list b-icon bi">
-                    <g data-v-3ae65d9e="">
-                      <path d="M12 13c0 1.105-1.12 2-2.5 2S7 14.105 7 13s1.12-2 2.5-2 2.5.895 2.5 2z"></path>
-                      <path fill-rule="evenodd" d="M12 3v10h-1V3h1z"></path>
-                      <path d="M11 2.82a1 1 0 0 1 .804-.98l3-.6A1 1 0 0 1 16 2.22V4l-5 1V2.82z"></path>
-                      <path fill-rule="evenodd"
-                        d="M0 11.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 .5 7H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5zm0-4A.5.5 0 0 1 .5 3H8a.5.5 0 0 1 0 1H.5a.5.5 0 0 1-.5-.5z">
-                      </path>
-                    </g>
-                  </svg></a>
+              <div data-v-3ae65d9e="" class="content-layout cover">
                 <div data-v-3ae65d9e="">
                   <section data-v-3ae65d9e="" id="separator" style="padding-top: 0px;">
                     <div data-v-3ae65d9e="" id="widget" class="widget"
@@ -151,21 +142,6 @@
                                 -
                                 selesai
                               </p>
-                              <p data-v-3ae65d9e="" style="white-space: pre-wrap;"><svg data-v-3ae65d9e=""
-                                  viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
-                                  aria-label="signpost2 fill" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                                  class="bi-signpost2-fill b-icon bi">
-                                  <g data-v-3ae65d9e="">
-                                    <path
-                                      d="M7.293.707A1 1 0 0 0 7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586A1 1 0 0 0 7.293.707z">
-                                    </path>
-                                  </g>
-                                </svg>  Patra Cirebon Hotel & Convention Kedawung, Cirebon
-                              </p>
-                              <p data-v-3ae65d9e=""><a data-v-3ae65d9e="" href="https://goo.gl/maps/tY3VGLTGFfmgCdYB8"
-                                  rel="noopener" target="_blank" class="btn btn-outline-primary rounded-pill">lihat
-                                  lokasi
-                                </a></p>
                             </div>
                             <div data-v-3ae65d9e=""
                               class="item-rundown wow animate__animated animate__fadeInUp col-lg-4 col-12">
@@ -186,7 +162,21 @@
                                 -
                                 14:00 WIB
                               </p>
-                              <!---->
+                              <p data-v-3ae65d9e="" style="white-space: pre-wrap;"><svg data-v-3ae65d9e=""
+                                  viewBox="0 0 16 16" width="1em" height="1em" focusable="false" role="img"
+                                  aria-label="signpost2 fill" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+                                  class="bi-signpost2-fill b-icon bi">
+                                  <g data-v-3ae65d9e="">
+                                    <path
+                                      d="M7.293.707A1 1 0 0 0 7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586A1 1 0 0 0 7.293.707z">
+                                    </path>
+                                  </g>
+                                </svg>  Patra Cirebon Hotel & Convention Kedawung, Cirebon
+                              </p>
+                              <p data-v-3ae65d9e=""><a data-v-3ae65d9e="" href="https://goo.gl/maps/tY3VGLTGFfmgCdYB8"
+                                  rel="noopener" target="_blank" class="btn btn-outline-primary rounded-pill">lihat
+                                  lokasi
+                                </a></p>
                               <p data-v-3ae65d9e="">
                                 <!---->
                               </p>
@@ -230,8 +220,7 @@
                                   </b></a></p>
                                   <h4 data-v-c647b94a=""><b data-v-c647b94a="">Shaqia Rahmadania Dharmawan</b></h4>
                                   <p data-v-c647b94a=""><b data-v-c647b94a="">Putri Pertama dari</b></p>
-                                  <p data-v-c647b94a="">Emil Dharmawan &amp;
-                                  </p> <span data-v-3ae65d9e="" class="couple-and">&amp;</span></p>
+                                  <p data-v-c647b94a="">Emil Dharmawan &amp;</p> 
                                   <p data-v-c647b94a="">Ova Nur'arova</p>
                              
                             </div>
@@ -269,7 +258,6 @@
                                   <h4 data-v-c647b94a=""><b data-v-c647b94a="">Affan Ghoffar Dzaky Hidayat</b></h4>
                                   <p data-v-c647b94a=""><b data-v-c647b94a="">Putra Kedua dari</b></p>
                                   <p data-v-c647b94a="">Drs. Hidayaturrachman. M.pd &amp;</p>
-                                  </p> <span data-v-3ae65d9e="" class="couple-and">&amp;</span></p>
                                   <p data-v-c647b94a="">Dra. Nur Ikhwatin. M.pd (Alm)</p>
                              
                             </div>
@@ -347,23 +335,6 @@
                                 </g>
                               </svg> Simpan acara ke kalender
                             </a></div>
-                          <div data-v-3ae65d9e="" class="notif-wrap col-sm-12 col-lg-12" align="center">
-                            <div data-v-3e4436ba="" data-v-3ae65d9e="">
-                              <div data-v-3e4436ba="" class="b-overlay-wrap position-relative"><button
-                                  data-v-3e4436ba="" type="button" class="btn btn-info rounded-pill"><svg
-                                    data-v-3e4436ba="" viewBox="0 0 16 16" width="1em" height="1em" focusable="false"
-                                    role="img" aria-label="bell" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                                    class="bi-bell b-icon bi">
-                                    <g data-v-3e4436ba="">
-                                      <path
-                                        d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2zM8 1.918l-.797.161A4.002 4.002 0 0 0 4 6c0 .628-.134 2.197-.459 3.742-.16.767-.376 1.566-.663 2.258h10.244c-.287-.692-.502-1.49-.663-2.258C12.134 8.197 12 6.628 12 6a4.002 4.002 0 0 0-3.203-3.92L8 1.917zM14.22 12c.223.447.481.801.78 1H1c.299-.199.557-.553.78-1C2.68 10.2 3 6.88 3 6c0-2.42 1.72-4.44 4.005-4.901a1 1 0 1 1 1.99 0A5.002 5.002 0 0 1 13 6c0 .88.32 4.2 1.22 6z">
-                                      </path>
-                                    </g>
-                                  </svg> Aktifkan Notifikasi</button>
-                                <!---->
-                              </div>
-                            </div>
-                          </div>
                         </div>
                         <div data-v-3ae65d9e="" class="shapeCountdown"><svg data-v-3ae65d9e=""
                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="842"

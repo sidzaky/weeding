@@ -103,13 +103,12 @@
                                     Sabtu</div>
                                   <div data-v-dd8b5e8a="" class="p-0 col-3">
                                     <h1 data-v-dd8b5e8a="" class="mb-0" style="font-size: 2rem;">
-                                      22</h1>
+                                    2022</h1>
                                   </div>
                                   <div data-v-dd8b5e8a="" class="border-date col-4"
                                     style="border-top: 2px solid rgb(255, 255, 255); border-bottom: 2px solid rgb(255, 255, 255);">
-                                    Januari</div>
+                                    22 Januari</div>
                                 </div>
-                                <div data-v-dd8b5e8a="" class="mt-2 years"> 2022</div>
                               </div>
                             </div>
                           </div>
@@ -163,21 +162,7 @@
                                     -
                                     selesai
                                   </p>
-                                  <p style="white-space:pre-wrap;" data-v-c647b94a=""><svg viewBox="0 0 16 16"
-                                      width="1em" height="1em" focusable="false" role="img" aria-label="signpost2 fill"
-                                      xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                                      class="bi-signpost2-fill b-icon bi" data-v-c647b94a="">
-                                      <g data-v-c647b94a="">
-                                        <path
-                                          d="M7.293.707A1 1 0 0 0 7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586A1 1 0 0 0 7.293.707z">
-                                        </path>
-                                      </g>
-                                    </svg> Patra Cirebon Hotel & Convention 
-                                  </p>
-                                  <p data-v-c647b94a=""><a href="https://g.page/Patra-Cirebon?share" rel="noopener"
-                                      target="_blank" class="btn btn-outline-primary rounded-pill"
-                                      data-v-c647b94a="">lihat lokasi
-                                    </a></p>
+                                 
                                 </div>
                                 <div class="item-rundown wow animate__animated animate__fadeInUp col-12"
                                   data-v-c647b94a="">
@@ -196,7 +181,21 @@
                                     </svg> pukul 11:00 WIB -
                                     14:00 WIB
                                   </p>
-                                  <!---->
+                                  <p style="white-space:pre-wrap;" data-v-c647b94a=""><svg viewBox="0 0 16 16"
+                                      width="1em" height="1em" focusable="false" role="img" aria-label="signpost2 fill"
+                                      xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+                                      class="bi-signpost2-fill b-icon bi" data-v-c647b94a="">
+                                      <g data-v-c647b94a="">
+                                        <path
+                                          d="M7.293.707A1 1 0 0 0 7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586A1 1 0 0 0 7.293.707z">
+                                        </path>
+                                      </g>
+                                    </svg> Patra Cirebon Hotel & Convention 
+                                  </p>
+                                  <p data-v-c647b94a=""><a href="https://g.page/Patra-Cirebon?share" rel="noopener"
+                                      target="_blank" class="btn btn-outline-primary rounded-pill"
+                                      data-v-c647b94a="">lihat lokasi
+                                    </a></p>
                                   <p data-v-c647b94a="">
                                     <!---->
                                   </p>
@@ -270,11 +269,11 @@
                                 </div>
                                 <div class="text-center" style="margin-top: -50px;" data-v-c647b94a="">
                                   <p class="twitter-profil" data-v-c647b94a=""><a
-                                      href="twitter.com/si.dzaky" target="_self" style="color:#282828;"
+                                      href="https://www.twitter.com/si.dzaky" target="_self" style="color:#282828;"
                                       data-v-c647b94a="" class=""><b data-v-c647b94a=""><svg viewBox="0 0 16 16"
                                           width="1em" height="1em" focusable="false" role="img" aria-label="twitter"
                                           xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                                          class="bi-instagram b-icon bi" data-v-c647b94a="">
+                                          class="bi-twitter b-icon bi" data-v-c647b94a="">
                                           <g data-v-c647b94a="">
                                             <path
                                               d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z">
@@ -294,8 +293,6 @@
                         </div>
                       </section>
                     </div>
-					
-					            
                     <div data-v-c647b94a="">
                       <!---->
                       <section id="weddingDetail" data-v-c647b94a="">
