@@ -449,7 +449,7 @@
       }
     $.ajax({
         type: "POST",
-        url: baseURL+"weeding/ucapan",
+        url: baseURL+"wedding/ucapan",
         data: data1,
         success: function (smsg) {
                   Swal.fire('Thank you kaka atas ucapannya'.trim());
@@ -483,7 +483,7 @@
       }
       $.ajax({
         type: "POST",
-        url: baseURL+"weeding/kehadiran",
+        url: baseURL+"wedding/kehadiran",
         data: data1,
         success: function (smsg) {
                   Swal.fire('Thank you kaka'.trim());
