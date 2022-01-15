@@ -22,6 +22,7 @@
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/wow.js" defer="defer"></script>
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/smooth-scroll.js" defer="defer"></script>
   <script data-n-head="ssr" src="<?php echo base_url()?>assets/js/owl.js" defer="defer"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   <style data-vue-ssr-id="71f83a6d:0 32df6d42:0 b13bd09c:0 650f1d22:0 7e56e4e3:0 56b15182:0 6aa9c286:0 700572ff:0 0185fd89:0 1a50e5ec:0 4f9f2f5a:0 4769a5b5:0 539de9c6:0 4a854e75:0 042e2ef9:0 491e5ff9:0 4aaa5fdf:0 d7d996e2:0 76575fda:0 011f47d6:0 2ac988cd:0 7c6ea576:0 10c311bb:0 796281b2:0 0b3e7722:0 29fad306:0">
     /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
