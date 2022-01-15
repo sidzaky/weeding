@@ -336,6 +336,18 @@
                               </svg> Simpan acara ke kalender
                             </a></div>
                         </div>
+                        <section id="rsvp" data-v-c647b94a="">
+                            <div class="cover text-center" data-v-5799a566="" data-v-c647b94a="">
+                              <div class="container" data-v-5799a566="">
+                                <p class="will-join" data-v-5799a566="">
+                                  <b data-v-5799a566=""> tamu</b> merespon akan datang, <br data-v-5799a566=""> kirim konfirmasi.</p>
+                                </div> 
+                                <button type="button" onclick='confirmkehadiran();' class="btn btn-success btn-lg" data-v-5799a566="">
+                                      <b data-v-5799a566="" >Konfirmasi Kehadiran</b>
+                                </button> <!---->
+                            </div>
+                          </section>
+
                         <div data-v-3ae65d9e="" class="shapeCountdown"><svg data-v-3ae65d9e=""
                             xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="842"
                             height="101" preserveAspectRatio="xMidYMid" viewBox="0 0 842 101"
@@ -382,14 +394,30 @@
                             class="btn btn-lokasi btn-outline-primary rounded-pill">lihat lokasi
                           </a></p>
                       </div>
+                      <div class="wishes container" data-v-697613cf="">
+                              <p data-v-697613cf="">
+                                <b data-v-697613cf="">Kirim ucapan:</b>
+                              </p>
+                              <fieldset class="form-group" data-v-697613cf="" id="__BVID__58"><!---->
+                              <div>
+                                <input type="text" id="nama_ucapan" placeholder="Nama lengkap" required="required" aria-required="true" maxlength="200" value="" class="form-control" data-v-697613cf="" ><!----><!----><!---->
+                              </div>
+                              </fieldset> 
+                              <fieldset class="form-group" data-v-697613cf="" id="__BVID__60"><!---->
+                              <div>
+                                <textarea placeholder="Alamat" id="alamat_ucapan" required="required" rows="2" aria-required="true" maxlength="200" class="form-control" data-v-697613cf=""  wrap="soft"></textarea><!----><!----><!---->
+                              </div>
+                            </fieldset> 
+                          <fieldset class="form-group" data-v-697613cf="" id="__BVID__64">
+                          <div><textarea id="ucapan" placeholder="hari yang indah untuk pasangan" required="required" rows="3" aria-required="true" maxlength="200" class="form-control" data-v-697613cf=""  wrap="soft"></textarea><!----><!----><!---->
+                            </div></fieldset> <div class="b-overlay-wrap position-relative" data-v-697613cf="">
+                              <button type="submit" class="btn btn-primary btn-block rounded-pill" onclick="kirimUcapan();" data-v-697613cf="">Kirim sekarang</button><!---->
+                            </div>
+                         
+                      </div>
                       
                     </div>
                   </section>
-                </div>
-                <div data-v-3ae65d9e="">
-                </div>
-                <div data-v-3ae65d9e="">
-                  <!---->
                 </div>
                   <section data-v-3ae65d9e="" id="footer">
                     <div data-v-3ae65d9e="" class="container">
@@ -411,5 +439,61 @@
     </div>
   </div>
 </body>
+<script>
+  var baseURL = "<?php echo base_url()?>";
+
+  function kirimUcapan(){
+    var data1 = {
+          'nama' : $("#nama_ucapan").val(),
+          'alamat' : $("#alamat_ucapan").val(),
+          'ucapan'  : $("#ucapan").val(),
+      }
+    $.ajax({
+        type: "POST",
+        url: baseURL+"weeding/ucapan",
+        data: data1,
+        success: function (smsg) {
+                  Swal.fire('Thank you kaka atas ucapannya'.trim());
+            }
+          })
+  }
+
+  function confirmkehadiran(){
+    Swal.fire({
+      title: 'Konfirmasi Kehadiran kamu',
+      html: `<input type="text" id="nama" class="swal2-input" placeholder="Nama Kamu">
+              <select id="confirm" class="swal2-input">
+                <option value='1'>Datang Donk</option>
+                <option value='0'>Maaf, sepertinya nggk datang</option>
+              </select>
+            `,
+      confirmButtonText: 'Kirim',
+      focusConfirm: false,
+      preConfirm: () => {
+        const login = Swal.getPopup().querySelector('#nama').value
+        const password = Swal.getPopup().querySelector('#confirm').value
+        if (!login || !password) {
+          Swal.showValidationMessage(`Isi dulu donk`)
+        }
+        return { login: login, password: password }
+      }
+    }).then((result) => {
+      var data1 = {
+          'nama' : Swal.getPopup().querySelector('#nama').value,
+          'confirm' : Swal.getPopup().querySelector('#confirm').value
+      }
+      $.ajax({
+        type: "POST",
+        url: baseURL+"weeding/kehadiran",
+        data: data1,
+        success: function (smsg) {
+                  Swal.fire('Thank you kaka'.trim());
+            }
+          })
+      
+    })
+}
+
+</script>
 
 </html>

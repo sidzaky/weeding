@@ -43,6 +43,15 @@ class Weeding extends CI_Controller {
 			$this->load->view('header_desktop');	
 			$this->load->view('Weeding_v');
 		}
-		
+	}
+
+	public function kehadiran(){
+		$this->db->insert('kehadiran', $_POST);
+		return true;
+	}
+
+	public function ucapan(){
+		$this->db->insert('ucapan', $_POST);
+		return true;
 	}
 }
