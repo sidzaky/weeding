@@ -29,7 +29,7 @@
                                 Sabtu</div>
                               <div data-v-dd8b5e8a="" class="p-0 col-3">
                                 <h1 data-v-dd8b5e8a="" class="mb-0" style="font-size: 2rem;">
-                                22 </h1>
+                                22  </h1>
                               </div>
                               <div data-v-dd8b5e8a="" class="border-date col-4"
                                 style="border-top: 2px solid rgb(255, 255, 255); border-bottom: 2px solid rgb(255, 255, 255);">
