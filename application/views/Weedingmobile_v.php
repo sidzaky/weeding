@@ -336,16 +336,6 @@
                           </svg></div>
                       </div>
                       <div data-v-3ae65d9e="" id="adressWrapper">
-                        <div data-v-3ae65d9e="" id="maps" class="cover">
-                          <div data-v-3ae65d9e="" class="google-maps"><iframe  id="gmap_canvas" src="https://maps.google.com/maps?q=hotel%20patra%20cirebon&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
-                        </div>
-                        <div data-v-3ae65d9e="" class="adress container">
-                          <p data-v-3ae65d9e="" style="white-space: pre-wrap;">Patra Cirebon Hotel & Convention Kedawung, Cirebon</p>
-                        </div>
-                        <p data-v-3ae65d9e="" class="lihat-lokasi"><a data-v-3ae65d9e=""
-                            href="https://g.page/Patra-Cirebon?share" rel="noopener" target="_blank"
-                            class="btn btn-lokasi btn-outline-primary rounded-pill">lihat lokasi
-                          </a></p>
                       </div>
                       <div class="wishes container" data-v-697613cf="">
                               <p data-v-697613cf="">
